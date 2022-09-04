@@ -12,7 +12,7 @@ Hello, World 🌏. I just graduated Coventry University London for Global Busine
 * ✉️  You can contact me at nechytailo.vladyslav@gmail.com
 * 🧠  I'm learning JavaScript and Redux
 * 🤝  I'm open to collaborating on Web Development
-* ⚡  Daily Random Fact: Some sea snakes can breathe through their skin.
+* ⚡  Love everything about Retro 90s!
 
 ### Skills
 
