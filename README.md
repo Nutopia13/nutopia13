@@ -4,6 +4,8 @@ Hi 👋 My name is Vladyslav Nechytailo
 Future Full Stack Developer
 ---------------------------
 
+<img src="./Untitled design.gif" alt="">
+
 Hello, World 🌏. I just graduated Coventry University London for Global Business Management. Currently I am on my way to become Full Stack Developer and in the near future would like to become Software Engineer. I've been learning how to code and I love making and designing webpages with HTML and CSS (and possible JavaScript in the future). It's fun to code something that anyone on the web can easily see. I also enjoy Python because they challenge me more!
 
 * 🌍  I'm based in London
