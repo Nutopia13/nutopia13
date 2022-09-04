@@ -1,4 +1,4 @@
-Hi 👋 My name is Vladyslav Nechytailo
+Hi 🕹 My name is Vladyslav Nechytailo
 =====================================
 
 Future Full Stack Developer
