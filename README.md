@@ -1,7 +1,7 @@
 Hi 🕹 My name is Vladyslav Nechytailo
 =====================================
 
-Full Stack Developer
+Front-End Developer
 ---------------------------
 
 <img src="./Untitled design.gif" alt="">
