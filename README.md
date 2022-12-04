@@ -6,7 +6,9 @@ Full Stack Developer
 
 <img src="./Untitled design.gif" alt="">
 
-Hello, World 🌏. Currently I am on my way to become Full Stack Developer and in the near future would like to become Software Engineer. I've been learning how to code and I love making and designing webpages with HTML, CSS and JavaScript. It's fun to code something that anyone on the web can easily see.
+I am a Full Stack Developer with a passion for creating intuitive and engaging web experiences. With a strong foundation in HTML, CSS, and JavaScript, I am skilled at building responsive and dynamic front-end interfaces. I also have experience with back-end technologies such as SQL, which allows me to develop full-stack applications from start to finish.
+
+In my free time, I enjoy exploring the latest trends in web development and staying up to date with the latest technologies. I am also an avid traveler, and I love visiting new places and experiencing different cultures.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at nechytailo.vladyslav@gmail.com
